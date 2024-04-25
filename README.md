@@ -1,0 +1,2 @@
+# DataTrained
+For homework
